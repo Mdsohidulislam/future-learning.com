@@ -1,0 +1,30 @@
+.header{  
+    padding: 20px;
+    border: 2px double black;
+    cursor: pointer;
+    margin: 0 1px;
+}
+.h1,.h5{ 
+    display: inline;
+    font-style: italic;
+    margin-right: 10px;
+}
+.log{  
+    background-color: black;
+    padding: 5px 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-style: italic; 
+    border-radius: 3px;
+}
+.sign{
+    background-color: black;
+    padding: 5px 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-style: italic; 
+    border-radius: 3px;
+    margin-left: 10px;
+}

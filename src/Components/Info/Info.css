@@ -1,0 +1,17 @@
+.info-container{
+    background-color: #cc00cc;
+    width: 220px;
+    border-radius: 3px;
+    position: fixed;
+    top: 100px;
+    right: 10px;
+    color: white;
+    text-align: center;  
+}
+.button-area{
+    position: absolute;
+}
+.info{
+    position: relative;
+    background-color: blue;
+}
